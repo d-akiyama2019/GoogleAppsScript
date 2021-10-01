@@ -1,6 +1,6 @@
 # GoogleAppsScript
 
-```
+```python
 function third_backup(){
   //テンプレートオブジェクトの取得
   var templateid = "テンプレートオブジェクトのidを入れる"; // URLのそれっぽいところ
